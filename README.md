@@ -155,3 +155,9 @@ Learn more about the
 ## License
 
 [Apache License 2.0](LICENSE)
+
+
+## Start now
+
+  [Learn](https://www.tensorflow.org/learn)
+
